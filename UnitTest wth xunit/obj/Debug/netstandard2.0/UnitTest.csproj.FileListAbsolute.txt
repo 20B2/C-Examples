@@ -1,0 +1,12 @@
+C:\Users\bnod_\Desktop\UnitTest\bin\Debug\netstandard2.0\UnitTest.deps.json
+C:\Users\bnod_\Desktop\UnitTest\bin\Debug\netstandard2.0\UnitTest.dll
+C:\Users\bnod_\Desktop\UnitTest\bin\Debug\netstandard2.0\UnitTest.pdb
+C:\Users\bnod_\Desktop\UnitTest\bin\Debug\netstandard2.0\xunit.abstractions.dll
+C:\Users\bnod_\Desktop\UnitTest\bin\Debug\netstandard2.0\xunit.assert.dll
+C:\Users\bnod_\Desktop\UnitTest\bin\Debug\netstandard2.0\xunit.core.dll
+C:\Users\bnod_\Desktop\UnitTest\bin\Debug\netstandard2.0\xunit.execution.dotnet.dll
+C:\Users\bnod_\Desktop\UnitTest\obj\Debug\netstandard2.0\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\bnod_\Desktop\UnitTest\obj\Debug\netstandard2.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\bnod_\Desktop\UnitTest\obj\Debug\netstandard2.0\UnitTest.AssemblyInfo.cs
+C:\Users\bnod_\Desktop\UnitTest\obj\Debug\netstandard2.0\UnitTest.dll
+C:\Users\bnod_\Desktop\UnitTest\obj\Debug\netstandard2.0\UnitTest.pdb
