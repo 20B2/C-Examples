@@ -905,12 +905,15 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\bnod_\\Desktop\\UnitTest\\UnitTest.csproj",
+      "projectUniqueName": "D:\\Binod\\Dev\\MyProjects\\C#\\C# Examples\\UnitTest wth xunit\\UnitTest.csproj",
       "projectName": "UnitTest",
-      "projectPath": "C:\\Users\\bnod_\\Desktop\\UnitTest\\UnitTest.csproj",
+      "projectPath": "D:\\Binod\\Dev\\MyProjects\\C#\\C# Examples\\UnitTest wth xunit\\UnitTest.csproj",
       "packagesPath": "C:\\Users\\bnod_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bnod_\\Desktop\\UnitTest\\obj\\",
+      "outputPath": "D:\\Binod\\Dev\\MyProjects\\C#\\C# Examples\\UnitTest wth xunit\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -926,8 +929,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.telerik.com/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net452": {
