@@ -1,0 +1,11 @@
+D:\Binod\Dev\MyProjects\C#\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.deps.json
+D:\Binod\Dev\MyProjects\C#\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.json
+D:\Binod\Dev\MyProjects\C#\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.dev.json
+D:\Binod\Dev\MyProjects\C#\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.dll
+D:\Binod\Dev\MyProjects\C#\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.pdb
+D:\Binod\Dev\MyProjects\C#\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csprojResolveAssemblyReference.cache
+D:\Binod\Dev\MyProjects\C#\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\Binod\Dev\MyProjects\C#\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfoInputs.cache
+D:\Binod\Dev\MyProjects\C#\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfo.cs
+D:\Binod\Dev\MyProjects\C#\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.dll
+D:\Binod\Dev\MyProjects\C#\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.pdb
